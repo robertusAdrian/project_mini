@@ -1,2 +1,2 @@
-# map_marking
-Track your data using google map
+# Project Mini
+Project Sample with basic CRUD
