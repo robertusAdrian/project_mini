@@ -1,2 +1,9 @@
 # Project Mini
-Project Sample with basic CRUD
+created by: Robertus Adrian
+
+### Project Sample with basic CRUD
+
+
+# Cara penggunaan 
+
+1. Harus Rajin.
